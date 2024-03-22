@@ -5,7 +5,7 @@
   <a href="www.linkedin.com/in/elizabeth-jaimes">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
-  ###  Hello👋
+ <br> Hello👋
   </div>
   </div>
 ---
@@ -17,7 +17,7 @@
 
 - :zap: In my free time, I enjoy hiking with my dog Beast, going out to dinner with friends, and working on side projects.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/elizabeth-jaimes)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/elizabeth-jaimes)
 
 ---
 
