@@ -17,9 +17,7 @@
 
 - :zap: In my free time, I enjoy hiking with my dog, going out to dinner with friends, and working on side projects.
 
-- :mailbox:How to reach me:  <a href="www.linkedin.com/in/elizabeth-jaimes">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
-
+- :mailbox:How to reach me:  You can reach me on <a href="#top">LinkedIn</a>
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
