@@ -1,15 +1,12 @@
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHJuYTVmbXFzd3h6dGNmOGc0ejMybTM2cjMxNTJ4aGJlZGwxYXEwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BferOKonYOspm28AiB/giphy.gif" width="100"/>
 
-<div id="badges">
-  <a href="www.linkedin.com/in/elizabeth-jaimes">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
-  </a>
+
  <br> Hello👋
   </div>
   </div>
-
-:woman_technologist: About Me :
+---
+### :woman_technologist: About Me :
 
 - :telescope: Programmer
 
@@ -17,7 +14,10 @@
 
 - :zap: In my free time, I enjoy hiking with my dog, going out to dinner with friends, and working on side projects.
 
-- :mailbox:How to reach me:  You can reach me on <a href="www.linkedin.com/in/elizabeth-jaimes">LinkedIn</a>
+- :mailbox:How to reach me:  <div id="badges">
+  <a href="www.linkedin.com/in/elizabeth-jaimes">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
+  </a>
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
