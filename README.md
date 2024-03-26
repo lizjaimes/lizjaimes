@@ -13,11 +13,12 @@
 
 - :telescope: Programmer
 
-- :seedling: Developing full-stack applications
+- :seedling: I'm currently learning how to create full-stack applications.
 
-- :zap: In my free time, I enjoy hiking with my dog Beast, going out to dinner with friends, and working on side projects.
+- :zap: In my free time, I enjoy hiking with my dog, going out to dinner with friends, and working on side projects.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/elizabeth-jaimes)
+- :mailbox:How to reach me:  <a href="www.linkedin.com/in/elizabeth-jaimes">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
 
 ---
 
@@ -27,6 +28,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="C#" alt="Csharp" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
 
 
