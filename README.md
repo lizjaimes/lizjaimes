@@ -14,11 +14,6 @@
 - :seedling: I'm currently learning how to create full-stack applications.
 
 - :zap: In my free time, I enjoy hiking with my dog, going out to dinner with friends, and working on side projects.
-
-- :mailbox:How to reach me:  <div id="badges">
-  <a href="www.linkedin.com/in/elizabeth-jaimes">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
-  </a>
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
