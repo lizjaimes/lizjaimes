@@ -9,9 +9,9 @@
 
 ### :woman_technologist: About Me :
 
-- :telescope: Programmer
+- :telescope: I'm currently a market research programmer developing survey programs with HTML, CSS, and JavaScript. 
 
-- :seedling: I'm currently learning how to create full-stack applications.
+- :seedling: Enrolled in Udemy's Ultimate C# Masterclass to further understand C# under the hood, clean code practices, and unit testing. 
 
 - :zap: In my free time, I enjoy hiking with my dog, going out to dinner with friends, and working on side projects.
 ---
